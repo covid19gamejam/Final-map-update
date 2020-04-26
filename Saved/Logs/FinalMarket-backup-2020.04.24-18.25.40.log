@@ -1,0 +1,1831 @@
+﻿Log file open, 04/24/20 11:03:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalMarket
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293912
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7Y75 CPU @ 1.30GHz, GPU: Intel(R) HD Graphics 615
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Yash2_2 -epicuserid=20b63bfdb4354383a562bcfc8dfc2975 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.24-16.03.25:795][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.24-16.03.25:795][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.24-16.03.25:795][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Engine.ini]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.04.24-16.03.25:796][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Engine.ini]
+[2020.04.24-16.03.25:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Engine.ini]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.24-16.03.25:797][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Engine.ini]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.24-16.03.25:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Engine.ini]
+[2020.04.24-16.03.25:798][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Engine.ini]
+[2020.04.24-16.03.25:804][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:804][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.24-16.03.25:804][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.24-16.03.25:804][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:804][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.24-16.03.25:804][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.24-16.03.25:805][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.24-16.03.25:806][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.24-16.03.25:806][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.24-16.03.25:806][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.24-16.03.25:811][  0]LogHAL: Display: Platform has ~ 8 GB [8457498624 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.24-16.03.25:811][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.24-16.03.25:811][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.24-16.03.25:811][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Scalability.ini]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.24-16.03.25:812][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.24-16.03.25:813][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.24-16.03.25:813][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.24-16.03.25:813][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.24-16.03.25:813][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Config/Windows/Engine.ini]
+[2020.04.24-16.03.25:813][  0]LogInit: Computer: DESKTOP-8T254MP
+[2020.04.24-16.03.25:813][  0]LogInit: User: yashk
+[2020.04.24-16.03.25:813][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.04.24-16.03.25:813][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.24-16.03.25:813][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.24-16.03.25:813][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.24-16.03.25:813][  0]LogMemory: Process Physical Memory: 103.95 MB used, 103.95 MB peak
+[2020.04.24-16.03.25:813][  0]LogMemory: Process Virtual Memory: 99.68 MB used, 99.68 MB peak
+[2020.04.24-16.03.25:813][  0]LogMemory: Physical Memory: 6111.06 MB used,  1954.64 MB free, 8065.70 MB total
+[2020.04.24-16.03.25:813][  0]LogMemory: Virtual Memory: 5117.54 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.04.24-16.03.25:818][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.24-16.03.25:843][  0]LogInit: Using OS detected language (en-US).
+[2020.04.24-16.03.25:843][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.24-16.03.25:844][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.24-16.03.26:131][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.24-16.03.26:263][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.24-16.03.26:263][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.24-16.03.26:653][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.24-16.03.26:653][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.24-16.03.26:653][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.24-16.03.26:653][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.24-16.03.26:668][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 615' (Feature Level 11_0)
+[2020.04.24-16.03.26:668][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2020.04.24-16.03.26:671][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.24-16.03.26:671][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.24-16.03.26:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.24-16.03.26:681][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.24-16.03.26:681][  0]LogD3D11RHI:     GPU DeviceId: 0x591e (for the marketing name, search the web for "GPU Device Id")
+[2020.04.24-16.03.26:681][  0]LogWindows: EnumDisplayDevices:
+[2020.04.24-16.03.26:681][  0]LogWindows:    0. 'Intel(R) HD Graphics 615' (P:1 D:1)
+[2020.04.24-16.03.26:682][  0]LogWindows:    1. 'Intel(R) HD Graphics 615' (P:0 D:1)
+[2020.04.24-16.03.26:682][  0]LogWindows:    2. 'Intel(R) HD Graphics 615' (P:0 D:0)
+[2020.04.24-16.03.26:683][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.04.24-16.03.26:683][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 615
+[2020.04.24-16.03.26:683][  0]LogD3D11RHI:   Driver Version: 22.20.16.4836 (internal:22.20.16.4836, unified:22.20.16.4836)
+[2020.04.24-16.03.26:683][  0]LogD3D11RHI:      Driver Date: 10-17-2017
+[2020.04.24-16.03.26:683][  0]LogRHI: Texture pool is 1501 MB (70% of 2144 MB)
+[2020.04.24-16.03.26:695][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.04.24-16.03.26:695][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.24-16.03.26:702][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2020.04.24-16.03.27:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.24-16.03.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.24-16.03.28:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.24-16.03.28:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.24-16.03.28:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.24-16.03.28:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.24-16.03.28:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.24-16.03.28:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.24-16.03.28:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.24-16.03.28:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.24-16.03.28:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.24-16.03.28:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.24-16.03.28:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.24-16.03.28:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.24-16.03.28:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.24-16.03.28:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.24-16.03.28:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.24-16.03.28:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.24-16.03.28:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.24-16.03.28:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.24-16.03.28:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.24-16.03.28:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.24-16.03.28:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.24-16.03.28:709][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.24-16.03.28:718][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.24-16.03.28:775][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Intermediate/Shaders/WorkingDirectory/13976/).
+[2020.04.24-16.03.28:775][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yashk/AppData/Local/Temp/UnrealShaderWorkingDir/EE380D6C474A0CD8EFA49C8CEC8B633A/'.
+[2020.04.24-16.03.28:776][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.24-16.03.28:776][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.24-16.03.28:776][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.24-16.03.31:364][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.24-16.03.31:661][  0]LogDerivedDataCache: Loaded boot cache 0.30s 78MB C:/Users/yashk/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.24-16.03.31:661][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yashk/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.24-16.03.31:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.24-16.03.31:661][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.24-16.03.31:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.24-16.03.31:662][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.24-16.03.31:679][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.24-16.03.31:679][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.24-16.03.31:679][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.24-16.03.31:680][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yashk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.24-16.03.31:680][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.24-16.03.31:680][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.24-16.03.31:726][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.24-16.03.31:730][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.24-16.03.31:731][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.24-16.03.31:835][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2020.04.24-16.03.32:651][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.24-16.03.33:382][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.24-16.03.33:382][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.24-16.03.33:382][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.24-16.03.33:382][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.24-16.03.33:382][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.24-16.03.33:412][  0]LogNetVersion: FinalMarket 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3870111325)
+[2020.04.24-16.03.37:230][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.140649 seconds
+[2020.04.24-16.03.37:277][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.24-16.03.37:279][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.24-16.03.37:284][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.24-16.03.38:632][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.24-16.03.38:638][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.24-16.03.38:804][  0]SourceControl: Source control is disabled
+[2020.04.24-16.03.38:804][  0]SourceControl: Source control is disabled
+[2020.04.24-16.03.38:806][  0]SourceControl: Source control is disabled
+[2020.04.24-16.03.38:808][  0]SourceControl: Source control is disabled
+[2020.04.24-16.03.38:810][  0]SourceControl: Source control is disabled
+[2020.04.24-16.03.38:834][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.24-16.03.38:836][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.24-16.03.39:011][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.24-16.03.39:032][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.24-16.03.39:032][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.24-16.03.39:255][  0]LogOcInput: OculusInput pre-init called
+[2020.04.24-16.03.39:323][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.24-16.03.39:323][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.24-16.03.39:444][  0]LogEngine: Initializing Engine...
+[2020.04.24-16.03.39:448][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.24-16.03.39:451][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.04.24-16.03.40:656][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.24-16.03.40:775][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.24-16.03.40:867][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.24-16.03.40:868][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.24-16.03.40:868][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.24-16.03.40:868][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.24-16.03.40:868][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.24-16.03.40:868][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.24-16.03.40:868][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.24-16.03.40:868][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.24-16.03.40:869][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.24-16.03.40:869][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.24-16.03.40:944][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.24-16.03.40:945][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek(R) Audio)
+[2020.04.24-16.03.40:945][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.24-16.03.40:945][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.24-16.03.40:945][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.24-16.03.40:945][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.24-16.03.40:945][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.24-16.03.40:945][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.24-16.03.40:945][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.24-16.03.41:305][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2020.04.24-16.03.41:319][  0]LogInit: FAudioDevice initialized.
+[2020.04.24-16.03.41:319][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.24-16.03.41:486][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/yashk/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.24-16.03.41:497][  0]LogInit: Texture streaming: Enabled
+[2020.04.24-16.03.41:522][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.24-16.03.41:522][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.24-16.03.41:535][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.24-16.03.41:660][  0]LogInit: Transaction tracking system initialized
+[2020.04.24-16.03.41:687][  0]BlueprintLog: New page: Editor Load
+[2020.04.24-16.03.41:759][  0]LocalizationService: Localization service is disabled
+[2020.04.24-16.03.41:847][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.04.24-16.03.41:848][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.04.24-16.03.41:848][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.04.24-16.03.41:885][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.24-16.03.41:887][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.24-16.03.42:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/' took 0.00s
+[2020.04.24-16.03.42:721][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.24-16.03.42:721][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.24-16.03.44:699][  0]SourceControl: Source control is disabled
+[2020.04.24-16.03.44:700][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.24-16.03.44:701][  0]LightingResults: New page: Lighting Build
+[2020.04.24-16.03.44:703][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.24-16.03.44:703][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.24-16.03.44:704][  0]MapCheck: New page: Map Check
+[2020.04.24-16.03.44:705][  0]LightingResults: New page: Lighting Build
+[2020.04.24-16.03.44:743][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.04.24-16.03.44:975][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.24-16.03.44:984][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.24-16.03.45:111][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.24-16.03.45:111][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.24-16.03.45:112][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.295ms to complete.
+[2020.04.24-16.03.45:112][  0]LogFileHelpers: Loading map 'Template_Default' took 0.412
+[2020.04.24-16.03.45:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-16.03.45:558][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-16.03.45:579][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-16.03.45:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-16.03.45:633][  0]LogCollectionManager: Loaded 0 collections in 0.006162 seconds
+[2020.04.24-16.03.45:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Collections/' took 0.00s
+[2020.04.24-16.03.45:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Developers/yashk/Collections/' took 0.00s
+[2020.04.24-16.03.45:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Collections/' took 0.00s
+[2020.04.24-16.03.45:799][  0]LogContentBrowser: Native class hierarchy populated in 0.1126 seconds. Added 3015 classes and 717 folders.
+[2020.04.24-16.03.45:810][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.24-16.03.47:263][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.24-16.03.47:402][  0]LogSlate: Took 0.002004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.24-16.03.47:493][  0]LogSlate: Took 0.000517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.24-16.03.47:525][  0]LogSlate: Took 0.015388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.24-16.03.48:015][  0]LogRenderer: Reallocating scene render targets to support 1528x576 Format 10 NumSamples 1 (Frame:1).
+[2020.04.24-16.03.54:540][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.24-16.03.54:540][  0]LogLoad: (Engine Initialization) Total time: 33.70 seconds
+[2020.04.24-16.03.54:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.24-16.03.54:660][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.24-16.03.55:263][  2]LogAssetRegistry: Asset discovery search completed in 23.4285 seconds
+[2020.04.24-16.03.55:273][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2020.04.24-16.03.56:091][  4]LogSlate: Took 0.013775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.24-16.03.58:884][ 57]LogSlate: Took 0.001462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.24-16.04.07:940][192]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Maps/Map.Map
+[2020.04.24-16.04.08:529][192]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.24-16.04.08:721][192]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2020.04.24-16.04.37:840][378]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.05.49:868][216]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.05.54:642][276]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.06.07:675][443]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.06.23:151][646]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.06.38:573][786]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.06.44:624][892]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.06.56:424][ 45]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.07.02:343][ 92]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.07.08:247][140]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.07.23:724][332]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.07.29:711][442]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.07.36:803][527]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.07.45:092][602]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.07.51:013][661]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.07.59:310][764]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.08.00:810][780]Cmd: TRANSACTION UNDO
+[2020.04.24-16.08.00:812][780]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.08.01:740][794]Cmd: TRANSACTION UNDO
+[2020.04.24-16.08.01:740][794]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.08.04:050][821]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.08.12:389][926]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.08.23:150][103]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.08.25:432][141]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.08.33:768][246]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.08.39:677][330]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.08.46:826][452]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.08.52:805][523]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.09.18:945][855]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.09.30:824][986]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.09.36:965][ 38]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.36:965][ 38]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.37:543][ 42]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.37:544][ 42]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.37:908][ 45]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.09.38:192][ 50]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.38:192][ 50]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.38:821][ 56]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.38:821][ 56]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.39:709][ 64]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.39:709][ 64]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.44:996][119]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.09.47:380][145]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.09.47:398][145]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.47:398][145]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.50:985][193]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.09.53:850][225]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.53:850][225]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.54:117][226]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.54:117][226]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.54:307][227]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.54:307][227]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.54:324][227]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.54:324][227]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.54:507][228]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.54:507][228]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.54:661][230]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.54:661][230]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.54:847][234]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.54:847][234]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.09.55:684][244]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.09.55:700][244]Cmd: TRANSACTION UNDO
+[2020.04.24-16.09.55:700][244]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.10.01:623][330]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.10.17:112][574]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.10.19:443][616]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.10.29:019][783]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.10.33:697][838]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.10.36:055][862]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.10.38:448][891]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.10.44:964][967]Cmd: TRANSACTION UNDO
+[2020.04.24-16.10.44:964][967]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.10.45:403][969]Cmd: TRANSACTION UNDO
+[2020.04.24-16.10.45:403][969]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.10.45:626][971]Cmd: TRANSACTION UNDO
+[2020.04.24-16.10.45:626][971]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.10.45:770][972]Cmd: TRANSACTION UNDO
+[2020.04.24-16.10.45:770][972]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.10.46:802][986]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.10.52:704][ 12]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.11.11:687][211]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.11.25:335][353]Cmd: TRANSACTION UNDO
+[2020.04.24-16.11.25:335][353]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.11.40:220][497]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.11.46:158][563]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.11.53:270][646]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.14.50:470][567]Cmd: TRANSACTION UNDO
+[2020.04.24-16.14.50:470][567]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.14.51:523][585]Cmd: TRANSACTION UNDO
+[2020.04.24-16.14.51:523][585]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.14.52:001][591]Cmd: TRANSACTION UNDO
+[2020.04.24-16.14.52:001][591]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.14.52:731][597]Cmd: TRANSACTION UNDO
+[2020.04.24-16.14.52:732][597]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.17.09:297][164]Cmd: TRANSACTION UNDO
+[2020.04.24-16.17.09:298][164]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.17.09:639][166]Cmd: TRANSACTION UNDO
+[2020.04.24-16.17.09:639][166]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.17.10:315][183]Cmd: TRANSACTION UNDO
+[2020.04.24-16.17.10:315][183]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.17.11:021][190]Cmd: TRANSACTION UNDO
+[2020.04.24-16.17.11:021][190]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.17.11:516][197]Cmd: TRANSACTION UNDO
+[2020.04.24-16.17.11:516][197]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.17.11:797][199]Cmd: TRANSACTION UNDO
+[2020.04.24-16.17.11:798][199]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.17.12:337][206]Cmd: TRANSACTION UNDO
+[2020.04.24-16.17.12:337][206]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.18.12:244][954]Cmd: TRANSACTION UNDO
+[2020.04.24-16.18.12:244][954]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.21.25:640][330]Cmd: TRANSACTION UNDO
+[2020.04.24-16.21.25:640][330]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.21.26:268][338]Cmd: TRANSACTION UNDO
+[2020.04.24-16.21.26:268][338]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.25.32:109][517]LogUObjectHash: Compacting FUObjectHashTables data took  11.01ms
+[2020.04.24-16.25.32:113][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.123
+[2020.04.24-16.25.32:118][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Map] ([1] browsable assets)...
+[2020.04.24-16.25.32:139][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map]
+[2020.04.24-16.25.32:139][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.24-16.25.33:108][517]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Map_Auto1B16AB6CF46D1E9D115326A9637FC507B.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto1.uasset'
+[2020.04.24-16.25.33:115][517]LogFileHelpers: Auto-saving content packages took 1.002
+[2020.04.24-16.29.50:549][516]Cmd: TRANSACTION UNDO
+[2020.04.24-16.29.50:550][516]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.30.10:487][748]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.30.20:019][857]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.33.46:227][626]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.46:227][626]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.46:910][636]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.46:911][636]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.47:134][638]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.47:136][638]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.47:208][638]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.47:208][638]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.47:691][644]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.47:691][644]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.47:941][646]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.47:942][646]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.48:104][647]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.48:104][647]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.48:218][649]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.48:219][649]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.48:433][651]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.48:434][651]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.48:837][657]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.48:838][657]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.54:219][710]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.54:236][710]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.54:511][712]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.54:512][712]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.54:805][717]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.54:806][717]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.55:242][728]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.55:243][728]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.55:810][735]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.55:810][735]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.33.56:272][740]Cmd: TRANSACTION UNDO
+[2020.04.24-16.33.56:272][740]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.35.48:446][160]Cmd: TRANSACTION UNDO
+[2020.04.24-16.35.48:447][160]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.35.49:606][160]Cmd: TRANSACTION UNDO
+[2020.04.24-16.35.49:607][160]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.35.51:329][179]Cmd: TRANSACTION UNDO
+[2020.04.24-16.35.51:329][179]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.35.52:573][193]Cmd: TRANSACTION UNDO
+[2020.04.24-16.35.52:573][193]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.36.20:993][524]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.04.24-16.36.20:995][524]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.149
+[2020.04.24-16.36.21:000][524]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Map] ([1] browsable assets)...
+[2020.04.24-16.36.21:000][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map]
+[2020.04.24-16.36.21:000][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.04.24-16.36.22:005][524]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Map_Auto21301BB6E4D8013E98858BF9176CFD740.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto2.uasset'
+[2020.04.24-16.36.22:013][524]LogFileHelpers: Auto-saving content packages took 1.014
+[2020.04.24-16.37.54:829][949]Cmd: TRANSACTION UNDO
+[2020.04.24-16.37.54:829][949]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.37.55:345][954]Cmd: TRANSACTION UNDO
+[2020.04.24-16.37.55:345][954]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.37.55:595][958]Cmd: TRANSACTION UNDO
+[2020.04.24-16.37.55:595][958]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.37.55:857][963]Cmd: TRANSACTION UNDO
+[2020.04.24-16.37.55:857][963]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.37.56:407][969]Cmd: TRANSACTION UNDO
+[2020.04.24-16.37.56:407][969]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.37.57:588][981]Cmd: TRANSACTION UNDO
+[2020.04.24-16.37.57:588][981]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.38.52:074][642]Cmd: TRANSACTION UNDO
+[2020.04.24-16.38.52:074][642]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.42.55:920][607]Cmd: TRANSACTION UNDO
+[2020.04.24-16.42.55:920][607]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.42.56:153][608]Cmd: TRANSACTION UNDO
+[2020.04.24-16.42.56:153][608]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.42.56:390][609]Cmd: TRANSACTION UNDO
+[2020.04.24-16.42.56:391][609]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.42.56:546][610]Cmd: TRANSACTION UNDO
+[2020.04.24-16.42.56:546][610]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.42.57:115][621]Cmd: TRANSACTION UNDO
+[2020.04.24-16.42.57:116][621]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.44:082][833]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.44:083][833]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.44:270][834]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.44:270][834]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.44:447][835]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.44:447][835]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.44:479][835]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.44:479][835]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.44:653][836]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.44:653][836]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.45:629][854]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.45:629][854]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.46:186][860]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.46:187][860]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.46:636][865]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.46:637][865]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.47:086][870]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.47:086][870]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.47:358][873]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.47:358][873]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.47:641][876]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.47:641][876]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.44.48:833][889]Cmd: TRANSACTION UNDO
+[2020.04.24-16.44.48:833][889]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.46.32:316][ 97]Cmd: TRANSACTION UNDO
+[2020.04.24-16.46.32:316][ 97]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.46.34:106][125]Cmd: TRANSACTION UNDO
+[2020.04.24-16.46.34:106][125]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.47.13:974][611]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2020.04.24-16.47.13:976][611]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.146
+[2020.04.24-16.47.13:981][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Map] ([1] browsable assets)...
+[2020.04.24-16.47.13:982][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map]
+[2020.04.24-16.47.13:982][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.24-16.47.14:900][611]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Map_Auto3663B5EA54DE539CCF8DE4B846B021DC2.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto3.uasset'
+[2020.04.24-16.47.14:908][611]LogFileHelpers: Auto-saving content packages took 0.928
+[2020.04.24-16.48.49:076][676]Cmd: TRANSACTION UNDO
+[2020.04.24-16.48.49:077][676]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.49.11:747][983]Cmd: TRANSACTION UNDO
+[2020.04.24-16.49.11:747][983]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.50.31:279][926]Cmd: TRANSACTION UNDO
+[2020.04.24-16.50.31:279][926]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-16.54.39:440][ 96]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-16.57.15:493][886]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2020.04.24-16.57.15:500][886]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.127
+[2020.04.24-16.57.15:507][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Map] ([1] browsable assets)...
+[2020.04.24-16.57.15:508][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map]
+[2020.04.24-16.57.15:508][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.04.24-16.57.16:388][886]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Map_Auto4D1233E474A06668C8D8E5DB324A9B7AA.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto4.uasset'
+[2020.04.24-16.57.16:393][886]LogFileHelpers: Auto-saving content packages took 0.887
+[2020.04.24-17.00.58:614][312]Cmd: TRANSACTION UNDO
+[2020.04.24-17.00.58:615][312]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.02.31:750][303]Cmd: TRANSACTION UNDO
+[2020.04.24-17.02.31:750][303]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.02.47:730][443]Cmd: TRANSACTION UNDO
+[2020.04.24-17.02.47:730][443]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.02.52:148][495]Cmd: TRANSACTION UNDO
+[2020.04.24-17.02.52:148][495]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.49:726][ 74]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.49:726][ 74]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.49:917][ 75]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.49:917][ 75]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.50:119][ 76]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.50:120][ 76]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.50:158][ 76]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.50:158][ 76]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.50:319][ 77]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.50:319][ 77]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.50:479][ 78]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.50:479][ 78]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.50:622][ 79]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.50:622][ 79]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.51:155][ 86]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.51:155][ 86]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.51:310][ 87]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.51:310][ 87]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.51:409][ 88]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.51:410][ 88]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.51:634][ 91]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.51:636][ 91]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.51:760][ 92]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.51:760][ 92]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.51:926][ 94]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.51:927][ 94]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.52:112][ 95]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.52:113][ 95]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.52:229][ 96]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.52:229][ 96]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.52:389][ 98]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.52:390][ 98]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.52:549][100]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.52:550][100]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.52:738][101]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.52:738][101]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.52:899][103]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.52:899][103]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.53:021][104]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.53:022][104]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.53:188][106]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.53:188][106]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.53:381][108]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.53:381][108]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.53:485][109]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.53:485][109]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.53:692][111]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.53:692][111]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.53:799][112]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.53:799][112]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.54:015][114]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.54:015][114]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.54:112][115]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.54:112][115]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.54:279][117]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.54:280][117]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.54:475][119]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.54:475][119]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.54:628][120]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.54:628][120]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.54:797][122]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.54:797][122]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.54:959][124]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.54:960][124]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.55:123][125]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.55:123][125]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.55:287][127]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.55:287][127]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.55:421][128]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.55:421][128]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.55:591][130]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.55:591][130]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.55:746][132]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.55:746][132]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.56:121][132]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.56:121][132]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.56:140][132]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.56:140][132]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.56:234][134]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.56:235][134]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.56:393][136]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.56:394][136]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.56:549][137]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.56:550][137]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.56:740][140]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.56:740][140]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.56:896][141]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.56:896][141]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.57:049][143]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.57:050][143]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.57:233][144]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.57:235][144]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.57:380][146]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.57:381][146]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.57:568][148]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.57:568][148]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.57:719][149]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.57:719][149]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.57:824][150]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.57:824][150]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.57:990][152]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.57:990][152]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.58:165][154]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.58:165][154]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.58:338][155]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.58:338][155]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.58:520][157]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.58:520][157]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.58:692][159]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.58:693][159]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.58:860][161]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.58:860][161]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.59:032][162]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.59:032][162]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.59:203][164]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.59:203][164]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.59:353][165]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.59:353][165]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.59:512][167]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.59:513][167]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.59:628][168]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.59:628][168]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.59:817][170]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.59:817][170]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.03.59:980][171]Cmd: TRANSACTION UNDO
+[2020.04.24-17.03.59:981][171]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.00:081][172]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.00:082][172]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.00:251][174]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.00:252][174]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.00:407][176]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.00:407][176]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.00:626][177]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.00:626][177]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.00:708][178]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.00:708][178]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.00:871][180]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.00:871][180]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.00:968][181]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.00:969][181]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.01:202][183]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.01:202][183]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.01:270][183]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.01:270][183]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.01:423][185]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.01:424][185]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.01:586][186]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.01:586][186]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.01:695][187]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.01:695][187]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.01:871][189]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.01:871][189]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.01:928][189]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.01:928][189]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.02:083][191]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.02:084][191]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.02:303][193]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.02:303][193]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.02:364][193]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.02:364][193]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.02:512][195]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.02:513][195]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.02:629][196]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.02:629][196]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.02:784][198]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.02:785][198]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.02:956][199]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.02:956][199]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.03:058][200]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.03:058][200]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.03:229][202]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.03:229][202]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.03:309][203]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.03:310][203]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.03:529][205]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.03:529][205]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.03:608][206]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.03:608][206]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.03:750][207]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.03:751][207]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.03:871][208]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.03:871][208]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.03:980][209]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.03:980][209]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.04:136][211]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.04:136][211]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.04:288][212]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.04:289][212]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.04:579][216]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.04:579][216]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.04:735][216]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.04:736][216]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.04:830][217]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.04:830][217]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.04:991][219]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.04:991][219]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.05:134][220]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.05:135][220]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.05:300][222]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.05:300][222]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.05:472][224]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.05:472][224]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.05:619][225]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.05:619][225]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.05:764][226]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.05:765][226]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.05:880][227]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.05:880][227]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.06:052][229]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.06:053][229]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.06:237][230]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.06:237][230]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.06:385][232]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.06:385][232]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.06:497][232]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.06:497][232]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.06:651][234]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.06:651][234]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.06:861][236]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.06:861][236]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.06:965][237]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.06:965][237]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.07:094][238]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.07:094][238]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.07:282][240]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.07:283][240]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.07:543][243]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.07:543][243]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.07:699][244]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.07:699][244]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.07:854][246]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.07:854][246]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.08:053][248]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.08:053][248]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.08:173][249]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.08:174][249]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.08:381][251]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.08:382][251]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.08:555][253]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.08:555][253]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.08:656][254]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.08:656][254]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.08:869][256]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.08:869][256]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.09:142][259]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.09:142][259]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.09:218][259]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.09:218][259]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.09:429][262]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.09:430][262]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.09:649][264]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.09:650][264]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.09:801][265]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.09:802][265]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.09:997][267]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.09:997][267]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.10:170][269]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.10:170][269]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.10:312][270]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.10:313][270]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.10:483][272]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.10:483][272]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.10:659][273]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.10:660][273]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.10:820][275]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.10:820][275]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.10:964][276]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.10:965][276]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.11:124][278]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.11:125][278]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.11:278][279]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.11:278][279]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.11:453][281]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.11:454][281]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.11:725][284]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.11:726][284]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.11:885][285]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.11:886][285]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.12:040][287]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.12:041][287]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.12:259][289]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.12:260][289]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.14:069][291]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.14:069][291]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.14:098][291]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.14:098][291]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.14:109][291]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.14:110][291]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.14:120][291]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.14:121][291]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.14:163][291]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.14:163][291]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.14:173][291]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.14:174][291]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.14:184][291]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.14:184][291]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.14:194][291]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.14:194][291]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.16:850][298]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.16:850][298]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.16:894][298]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.16:894][298]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.16:916][298]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.16:916][298]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.16:928][298]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.16:928][298]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.17:890][311]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.17:890][311]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.18:418][317]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.18:419][317]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.18:655][322]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.18:655][322]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.18:778][324]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.18:778][324]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.18:941][326]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.18:941][326]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.19:091][328]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.19:091][328]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.19:228][329]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.19:229][329]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.19:408][331]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.19:408][331]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.19:541][332]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.19:541][332]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.19:746][334]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.19:747][334]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.19:866][335]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.19:867][335]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.20:072][338]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.20:073][338]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.20:199][338]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.20:199][338]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.20:437][341]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.20:437][341]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.20:577][342]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.20:577][342]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.20:763][344]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.20:764][344]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.20:847][344]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.20:847][344]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.21:066][347]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.21:066][347]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.21:240][348]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.21:240][348]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.21:391][350]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.21:392][350]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.21:584][352]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.21:585][352]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.21:749][354]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.21:749][354]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.21:865][354]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.21:866][354]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.22:111][357]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.22:111][357]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.22:269][358]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.22:269][358]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.22:560][362]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.22:561][362]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.22:779][363]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.22:779][363]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.22:927][365]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.22:927][365]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.23:052][366]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.23:052][366]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.23:231][368]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.23:231][368]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.23:331][369]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.23:332][369]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.23:482][370]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.23:482][370]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.23:623][372]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.23:623][372]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.23:859][374]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.23:859][374]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.23:972][375]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.23:972][375]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.24:140][377]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.24:140][377]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.24:281][378]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.24:281][378]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.24:518][381]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.24:519][381]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.24:680][382]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.24:680][382]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.24:886][385]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.24:886][385]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.25:306][389]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.25:306][389]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.25:441][389]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.25:442][389]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.25:531][390]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.25:531][390]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.25:677][392]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.25:677][392]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.25:943][395]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.25:943][395]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:014][395]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:014][395]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:051][395]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:051][395]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:189][397]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:189][397]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:330][399]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:330][399]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:455][399]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:455][399]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:472][399]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:472][399]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:564][400]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:565][400]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:710][402]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:711][402]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.26:982][405]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.26:982][405]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.27:051][405]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.27:052][405]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.27:220][407]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.27:221][407]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.27:484][410]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.27:484][410]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.28:380][419]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.28:380][419]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.28:581][421]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.28:582][421]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.29:300][428]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.29:300][428]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.29:830][434]Cmd: TRANSACTION UNDO
+[2020.04.24-17.04.29:830][434]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.04.36:109][509]Cmd: TRANSACTION REDO
+[2020.04.24-17.04.36:110][509]LogEditorTransaction: Redo Tile Painting
+[2020.04.24-17.06.58:073][907]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.07.13:481][ 71]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.07.17:122][103]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2020.04.24-17.07.17:143][103]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.168
+[2020.04.24-17.07.17:151][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Map] ([1] browsable assets)...
+[2020.04.24-17.07.17:151][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map]
+[2020.04.24-17.07.17:151][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.04.24-17.07.18:336][103]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Map_Auto5C0039A4A4CE00C0AC51B1EB160BA3267.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto5.uasset'
+[2020.04.24-17.07.18:342][103]LogFileHelpers: Auto-saving content packages took 1.193
+[2020.04.24-17.07.23:025][154]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.12.37:669][245]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.12.42:424][293]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.14.12:705][189]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.14.26:920][328]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.16.41:116][553]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.34.17:413][ 23]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.34.22:185][ 81]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.34.42:983][313]Cmd: TRANSACTION UNDO
+[2020.04.24-17.34.42:983][313]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.34.55:423][441]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.35.12:024][644]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.35.19:160][714]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.35.36:969][910]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.24-17.35.45:048][944]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.04.24-17.35.45:050][944]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.388
+[2020.04.24-17.35.45:055][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Map] ([1] browsable assets)...
+[2020.04.24-17.35.45:055][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map]
+[2020.04.24-17.35.45:055][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.04.24-17.35.46:440][944]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Map_Auto6B259DC1840505C7400C8E1B4760D5CE7.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto6.uasset'
+[2020.04.24-17.35.46:459][944]LogFileHelpers: Auto-saving content packages took 1.405
+[2020.04.24-17.43.53:566][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset" SILENT=true
+[2020.04.24-17.43.55:075][344]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Map78B570E541C115D13FA287BA4595E95E.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset'
+[2020.04.24-17.43.55:231][344]AssetCheck: New page: Asset Save: Map
+[2020.04.24-17.43.55:233][344]LogContentValidation: Display: Validating PaperTileMap /Game/Maps/Map.Map
+[2020.04.24-17.48.54:184][111]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2020.04.24-17.48.54:202][111]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.181
+[2020.04.24-17.48.54:210][111]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Map] ([1] browsable assets)...
+[2020.04.24-17.48.54:210][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map]
+[2020.04.24-17.48.54:210][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.04.24-17.48.55:454][111]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Map_Auto76B2FC6DB4EF75E30A62196B541E24FF9.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/Autosaves/Game/Maps/Map_Auto7.uasset'
+[2020.04.24-17.48.55:460][111]LogFileHelpers: Auto-saving content packages took 1.252
+[2020.04.24-17.50.53:096][ 86]Cmd: TRANSACTION UNDO
+[2020.04.24-17.50.53:096][ 86]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.51.29:149][460]Cmd: TRANSACTION UNDO
+[2020.04.24-17.51.29:149][460]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-17.52.36:691][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset" SILENT=true
+[2020.04.24-17.52.37:954][ 76]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/MapC7703627496F3892B2283996A87F25E1.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset'
+[2020.04.24-17.52.38:063][ 76]AssetCheck: New page: Asset Save: Map
+[2020.04.24-17.52.38:064][ 76]LogContentValidation: Display: Validating PaperTileMap /Game/Maps/Map.Map
+[2020.04.24-17.55.17:230][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset" SILENT=true
+[2020.04.24-17.55.18:621][491]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/MapAA4DB32E46447627A9E7C68A6B75D9B4.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset'
+[2020.04.24-17.55.18:705][491]AssetCheck: New page: Asset Save: Map
+[2020.04.24-17.55.18:705][491]LogContentValidation: Display: Validating PaperTileMap /Game/Maps/Map.Map
+[2020.04.24-18.04.14:206][560]Cmd: TRANSACTION UNDO
+[2020.04.24-18.04.14:206][560]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-18.04.16:243][571]Cmd: TRANSACTION UNDO
+[2020.04.24-18.04.16:244][571]LogEditorTransaction: Undo Tile Painting
+[2020.04.24-18.07.56:384][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset" SILENT=true
+[2020.04.24-18.07.58:463][858]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/MapE2C269A141D8BA99DDC3F4858F351772.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset'
+[2020.04.24-18.07.58:593][858]AssetCheck: New page: Asset Save: Map
+[2020.04.24-18.07.58:593][858]LogContentValidation: Display: Validating PaperTileMap /Game/Maps/Map.Map
+[2020.04.24-18.25.02:089][282]LogSlate: Window 'Map' being destroyed
+[2020.04.24-18.25.02:229][282]LogSlate: Window 'Map' being destroyed
+[2020.04.24-18.25.02:565][282]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.24-18.25.02:566][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.24-18.25.03:983][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset" SILENT=true
+[2020.04.24-18.25.05:479][298]LogSavePackage: Moving '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Saved/MapE0B00ECA4E6A78BC0AA3A1A36FF93234.tmp' to '../../../../../../Users/yashk/OneDrive/Documents/Unreal Projects/FinalMarket/Content/Maps/Map.uasset'
+[2020.04.24-18.25.05:532][298]AssetCheck: New page: Asset Save: Map
+[2020.04.24-18.25.05:532][298]LogContentValidation: Display: Validating PaperTileMap /Game/Maps/Map.Map
+[2020.04.24-18.25.07:300][326]LogUObjectHash: Compacting FUObjectHashTables data took  24.03ms
+[2020.04.24-18.25.07:770][326]LogSlate: Window 'FinalMarket - Unreal Editor' being destroyed
+[2020.04.24-18.25.07:775][326]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.24-18.25.08:739][327]Cmd: QUIT_EDITOR
+[2020.04.24-18.25.08:739][327]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.24-18.25.08:803][327]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.24-18.25.08:804][327]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.24-18.25.09:036][327]LogExit: Preparing to exit.
+[2020.04.24-18.25.09:905][327]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.24-18.25.09:964][327]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.24-18.25.10:092][327]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.24-18.25.10:597][327]LogExit: Editor shut down
+[2020.04.24-18.25.10:603][327]LogExit: Transaction tracking system shut down
+[2020.04.24-18.25.35:311][327]LogExit: Object subsystem successfully closed.
+[2020.04.24-18.25.35:457][327]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.24-18.25.35:664][327]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.04.24-18.25.35:665][327]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.04.24-18.25.35:680][327]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.04.24-18.25.35:680][327]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.04.24-18.25.35:680][327]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.04.24-18.25.35:682][327]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (686)
+[2020.04.24-18.25.35:682][327]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.04.24-18.25.35:683][327]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.04.24-18.25.35:683][327]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.04.24-18.25.35:683][327]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.04.24-18.25.35:687][327]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.04.24-18.25.35:688][327]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.04.24-18.25.35:688][327]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.04.24-18.25.35:688][327]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.04.24-18.25.35:688][327]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.04.24-18.25.35:688][327]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.04.24-18.25.35:688][327]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.04.24-18.25.35:690][327]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.04.24-18.25.35:690][327]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.04.24-18.25.35:691][327]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.04.24-18.25.35:691][327]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.04.24-18.25.35:691][327]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.04.24-18.25.35:692][327]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.04.24-18.25.35:692][327]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.04.24-18.25.35:696][327]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.04.24-18.25.35:696][327]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.04.24-18.25.35:700][327]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.04.24-18.25.35:702][327]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.04.24-18.25.35:702][327]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.04.24-18.25.35:702][327]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.04.24-18.25.35:702][327]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.04.24-18.25.35:702][327]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.04.24-18.25.35:702][327]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.04.24-18.25.35:704][327]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.04.24-18.25.35:705][327]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.04.24-18.25.35:706][327]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.04.24-18.25.35:708][327]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.04.24-18.25.35:708][327]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.04.24-18.25.35:708][327]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.04.24-18.25.35:709][327]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.04.24-18.25.35:711][327]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.04.24-18.25.35:712][327]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.04.24-18.25.35:714][327]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.04.24-18.25.35:715][327]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.04.24-18.25.35:715][327]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.04.24-18.25.35:716][327]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.04.24-18.25.35:716][327]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.04.24-18.25.36:967][327]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.04.24-18.25.36:967][327]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.04.24-18.25.36:967][327]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.04.24-18.25.36:967][327]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.04.24-18.25.36:967][327]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.04.24-18.25.36:967][327]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.04.24-18.25.36:967][327]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.04.24-18.25.36:968][327]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.04.24-18.25.36:969][327]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.04.24-18.25.36:971][327]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.04.24-18.25.36:971][327]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.04.24-18.25.36:972][327]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.04.24-18.25.36:972][327]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.04.24-18.25.36:972][327]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.04.24-18.25.36:974][327]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.04.24-18.25.36:974][327]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.04.24-18.25.36:975][327]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.04.24-18.25.36:976][327]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.04.24-18.25.36:977][327]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.04.24-18.25.36:979][327]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.04.24-18.25.36:980][327]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.04.24-18.25.36:980][327]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.04.24-18.25.36:981][327]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.04.24-18.25.36:982][327]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.04.24-18.25.37:015][327]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.04.24-18.25.37:017][327]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.04.24-18.25.37:017][327]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.04.24-18.25.37:019][327]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.04.24-18.25.37:019][327]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.04.24-18.25.37:021][327]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.04.24-18.25.37:022][327]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.04.24-18.25.37:024][327]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.04.24-18.25.37:027][327]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.04.24-18.25.37:027][327]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.04.24-18.25.37:028][327]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.04.24-18.25.37:033][327]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.04.24-18.25.37:033][327]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.04.24-18.25.37:035][327]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.04.24-18.25.37:036][327]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.04.24-18.25.37:036][327]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.04.24-18.25.37:037][327]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.04.24-18.25.37:037][327]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.04.24-18.25.37:042][327]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.04.24-18.25.37:042][327]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.04.24-18.25.37:042][327]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.04.24-18.25.37:042][327]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.04.24-18.25.37:043][327]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.04.24-18.25.37:044][327]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.04.24-18.25.37:044][327]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.04.24-18.25.37:044][327]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.04.24-18.25.37:045][327]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.04.24-18.25.37:045][327]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.04.24-18.25.37:045][327]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.04.24-18.25.37:045][327]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.04.24-18.25.37:045][327]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.04.24-18.25.37:045][327]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.04.24-18.25.37:045][327]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.04.24-18.25.37:047][327]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.04.24-18.25.37:047][327]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.04.24-18.25.37:047][327]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.04.24-18.25.37:048][327]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.04.24-18.25.37:057][327]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.04.24-18.25.37:222][327]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.04.24-18.25.37:224][327]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.04.24-18.25.37:224][327]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.04.24-18.25.37:224][327]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.04.24-18.25.37:225][327]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.04.24-18.25.37:225][327]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.04.24-18.25.37:225][327]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.04.24-18.25.37:225][327]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.04.24-18.25.37:232][327]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.04.24-18.25.37:233][327]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.04.24-18.25.37:233][327]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.04.24-18.25.37:233][327]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.04.24-18.25.37:234][327]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.04.24-18.25.37:234][327]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.04.24-18.25.37:234][327]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.04.24-18.25.37:234][327]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.04.24-18.25.37:234][327]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.04.24-18.25.37:234][327]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.04.24-18.25.37:234][327]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.04.24-18.25.37:236][327]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.04.24-18.25.37:236][327]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.04.24-18.25.37:236][327]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.04.24-18.25.37:236][327]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.04.24-18.25.37:236][327]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.04.24-18.25.37:238][327]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.04.24-18.25.37:238][327]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.04.24-18.25.37:238][327]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.04.24-18.25.37:239][327]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.04.24-18.25.37:239][327]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.04.24-18.25.37:239][327]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.04.24-18.25.37:239][327]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.04.24-18.25.37:240][327]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.04.24-18.25.37:240][327]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.04.24-18.25.37:240][327]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.04.24-18.25.37:241][327]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.04.24-18.25.37:242][327]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.04.24-18.25.37:242][327]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.04.24-18.25.37:245][327]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.04.24-18.25.37:247][327]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.04.24-18.25.37:248][327]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.04.24-18.25.37:250][327]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.04.24-18.25.37:250][327]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.04.24-18.25.37:250][327]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.04.24-18.25.37:251][327]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.04.24-18.25.37:251][327]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.04.24-18.25.37:251][327]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.04.24-18.25.37:252][327]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.04.24-18.25.37:254][327]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.04.24-18.25.37:256][327]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.04.24-18.25.37:257][327]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.04.24-18.25.37:258][327]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.04.24-18.25.37:258][327]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.04.24-18.25.37:258][327]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.04.24-18.25.37:258][327]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.04.24-18.25.37:258][327]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.04.24-18.25.37:258][327]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.04.24-18.25.37:258][327]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.04.24-18.25.37:259][327]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.04.24-18.25.37:259][327]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.04.24-18.25.37:259][327]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.04.24-18.25.37:259][327]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.04.24-18.25.37:259][327]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.04.24-18.25.37:259][327]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.04.24-18.25.37:259][327]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.04.24-18.25.37:455][327]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.04.24-18.25.37:558][327]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.04.24-18.25.37:558][327]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.04.24-18.25.37:560][327]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.04.24-18.25.37:560][327]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.04.24-18.25.37:560][327]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.04.24-18.25.37:560][327]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.04.24-18.25.37:560][327]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.04.24-18.25.37:561][327]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.04.24-18.25.37:562][327]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.04.24-18.25.37:562][327]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.04.24-18.25.37:563][327]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.24-18.25.37:564][327]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.04.24-18.25.37:564][327]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.04.24-18.25.37:565][327]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.04.24-18.25.37:565][327]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.04.24-18.25.37:566][327]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.04.24-18.25.37:566][327]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.04.24-18.25.37:567][327]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.04.24-18.25.37:567][327]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.04.24-18.25.37:569][327]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.04.24-18.25.37:584][327]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.04.24-18.25.37:585][327]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.04.24-18.25.37:586][327]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.04.24-18.25.37:587][327]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.04.24-18.25.37:589][327]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.04.24-18.25.37:609][327]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.04.24-18.25.37:609][327]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.04.24-18.25.37:609][327]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.04.24-18.25.37:610][327]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.04.24-18.25.37:610][327]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.04.24-18.25.37:626][327]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.04.24-18.25.37:626][327]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.04.24-18.25.37:626][327]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.04.24-18.25.37:626][327]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.04.24-18.25.37:627][327]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.04.24-18.25.37:628][327]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.04.24-18.25.37:629][327]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.04.24-18.25.37:629][327]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.04.24-18.25.37:629][327]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.04.24-18.25.37:630][327]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.04.24-18.25.37:631][327]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.04.24-18.25.37:631][327]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.04.24-18.25.37:633][327]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.04.24-18.25.37:634][327]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.04.24-18.25.37:635][327]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.04.24-18.25.37:637][327]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.04.24-18.25.37:637][327]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.04.24-18.25.37:638][327]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.04.24-18.25.37:639][327]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.04.24-18.25.37:641][327]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.04.24-18.25.37:641][327]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.04.24-18.25.37:641][327]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.04.24-18.25.37:641][327]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.04.24-18.25.37:641][327]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.04.24-18.25.37:641][327]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.04.24-18.25.37:641][327]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.04.24-18.25.37:642][327]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.04.24-18.25.37:642][327]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.04.24-18.25.37:642][327]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.04.24-18.25.37:643][327]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.04.24-18.25.37:646][327]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.04.24-18.25.37:650][327]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.04.24-18.25.37:653][327]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.24-18.25.37:661][327]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.04.24-18.25.37:662][327]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.04.24-18.25.37:663][327]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.04.24-18.25.37:663][327]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.04.24-18.25.37:664][327]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.04.24-18.25.37:664][327]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.04.24-18.25.37:665][327]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.04.24-18.25.37:668][327]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.04.24-18.25.37:668][327]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.04.24-18.25.37:669][327]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.04.24-18.25.37:669][327]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.04.24-18.25.37:669][327]LogDerivedDataCache: Shutdown
+[2020.04.24-18.25.37:670][327]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.04.24-18.25.37:670][327]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.04.24-18.25.37:671][327]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.04.24-18.25.37:671][327]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.04.24-18.25.37:672][327]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.04.24-18.25.37:672][327]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.04.24-18.25.37:672][327]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.04.24-18.25.37:673][327]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.04.24-18.25.37:673][327]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.04.24-18.25.37:674][327]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.04.24-18.25.37:674][327]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.04.24-18.25.37:675][327]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.04.24-18.25.37:675][327]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.04.24-18.25.37:676][327]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.04.24-18.25.37:676][327]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.04.24-18.25.37:677][327]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.04.24-18.25.37:677][327]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.04.24-18.25.37:677][327]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.04.24-18.25.37:678][327]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.04.24-18.25.37:678][327]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.04.24-18.25.37:678][327]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.04.24-18.25.37:678][327]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.04.24-18.25.37:738][327]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.24-18.25.37:760][327]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.04.24-18.25.37:760][327]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.04.24-18.25.37:760][327]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.04.24-18.25.37:761][327]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.04.24-18.25.37:761][327]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.04.24-18.25.37:761][327]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.04.24-18.25.37:762][327]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.04.24-18.25.37:762][327]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.04.24-18.25.37:879][327]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.24-18.25.39:062][327]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.04.24-18.25.39:062][327]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.04.24-18.25.39:062][327]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.04.24-18.25.39:063][327]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.04.24-18.25.39:067][327]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.04.24-18.25.39:067][327]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.04.24-18.25.39:069][327]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.04.24-18.25.39:069][327]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.04.24-18.25.39:069][327]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.04.24-18.25.39:069][327]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.04.24-18.25.39:070][327]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.04.24-18.25.39:070][327]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.04.24-18.25.39:070][327]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.04.24-18.25.39:071][327]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.24-18.25.39:071][327]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.04.24-18.25.39:072][327]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.04.24-18.25.39:072][327]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.04.24-18.25.39:072][327]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.04.24-18.25.39:072][327]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.04.24-18.25.39:079][327]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.04.24-18.25.39:081][327]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.04.24-18.25.39:188][327]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.04.24-18.25.39:188][327]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.24-18.25.39:188][327]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A95B09A-4ADA-234B-A49C-ABB1026DC778%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=568bff4d4773575fa3d07fac64442f3c%7C20b63bfdb4354383a562bcfc8dfc2975%7C5d6902c1-e1ad-4d09-81c0-19f5afa70d08&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.04.24-18.25.39:388][327]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.04.24-18.25.39:407][327]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.04.24-18.25.39:412][327]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.04.24-18.25.39:414][327]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.04.24-18.25.39:414][327]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.04.24-18.25.39:415][327]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.04.24-18.25.39:420][327]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.04.24-18.25.39:420][327]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.04.24-18.25.39:428][327]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.04.24-18.25.39:432][327]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.04.24-18.25.39:432][327]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.24-18.25.39:433][327]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.24-18.25.39:434][327]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.24-18.25.39:437][327]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.24-18.25.39:440][327]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.24-18.25.39:442][327]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.24-18.25.39:442][327]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.24-18.25.39:442][327]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.24-18.25.39:531][327]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.24-18.25.39:533][327]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.24-18.25.39:533][327]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.24-18.25.39:534][327]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.24-18.25.39:535][327]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.24-18.25.39:535][327]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.24-18.25.39:535][327]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.24-18.25.39:536][327]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.24-18.25.39:536][327]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.24-18.25.39:536][327]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.24-18.25.39:536][327]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.24-18.25.39:537][327]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.24-18.25.39:771][327]LogD3D11RHI: Shutdown
+[2020.04.24-18.25.39:772][327]LogD3D11RHI: CleanupD3DDevice
+[2020.04.24-18.25.40:254][327]LogExit: Exiting.
+[2020.04.24-18.25.40:437][327]Log file closed, 04/24/20 13:25:40
